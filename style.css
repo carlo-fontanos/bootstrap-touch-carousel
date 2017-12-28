@@ -1,0 +1,16 @@
+body { background: #f5f5f5; }
+
+.override #carousel-image-and-text .scrollbar-holder { display: none; }
+.override #carousel-image-and-text .item-block { box-shadow: 0 2px 2px 0 rgba(0,0,0,0.16), 0 0 0 1px rgba(0,0,0,0.08); border-radius: 2px; background: #fff; }
+
+.override #carousel-categories { height: 100px; margin: 20px 0; }
+.override #carousel-categories .scrollbar-holder { display: none; }
+.override #carousel-categories .item-block {  }
+.override #carousel-categories .touchcarousel-item { padding: 10px; background: #fff; margin-right: 5px; }
+
+
+.override #bootstrap-categories { height: 235px; margin: 20px 0; }
+.override #bootstrap-categories .touchcarousel-item { margin-right: 10px; }
+.override #bootstrap-categories .touchcarousel-item img { width: 150px; }
+.override #bootstrap-categories .touchcarousel-item a:hover { text-decoration: none; }
+.override #bootstrap-categories .scrollbar-holder { display: none; }
