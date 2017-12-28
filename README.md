@@ -1,2 +1,2 @@
-# bootstrap-touch-carousel
+# Bootstrap Touch Carousel
 Touch / Panning based carousel
