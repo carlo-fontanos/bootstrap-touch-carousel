@@ -1,5 +1,5 @@
 .touchcarousel { position: relative; height: 400px; overflow: hidden }
-.touchcarousel .touchcarousel-container { position: relative; margin: 0; padding: 0; list-style: none; left: 0 }
+.touchcarousel .touchcarousel-container { position: relative; margin: 0 auto; padding: 0; list-style: none; left: 0 }
 .touchcarousel .touchcarousel-wrapper { position: relative; overflow: hidden; width: 100%; height: 100% }
 .touchcarousel .touchcarousel-item { margin: 0; padding: 0; float: left }
 .touchcarousel .touchcarousel-item.last { margin-right: 0!important }

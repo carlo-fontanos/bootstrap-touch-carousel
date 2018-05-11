@@ -14,6 +14,7 @@
 
 <div class="container">
 	<h3>Bootstrap Panels</h3>
+	<center>
 	<div id="bootstrap-categories" class="touchcarousel grey-blue">
 		<ul class="touchcarousel-container">
 			<li class="touchcarousel-item">
@@ -43,6 +44,7 @@
 					</div>
 				</a>
 			</li>
+			<!--
 			<li class="touchcarousel-item">
 				<a class="item-block" href="javascript:;">
 					<div class="panel panel-default">
@@ -232,8 +234,10 @@
 					</div>
 				</a>
 			</li>
+			-->
 		</ul> 	
 	</div>
+	</center>
 </div>
 		
 <script type="text/javascript">
